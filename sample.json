@@ -1,0 +1,146 @@
+{
+  "Title": "Title of school",
+  "Images": [
+    "image url here"
+  ],
+  "Badge": "# 1 in Best Colleges in America",
+  "Facts": [
+    "4 Year",
+    "NEW HAVEN, CT",
+    "other facts..."
+  ],
+  "Ratings": "Rating 4.02 out of 5 ",
+  "No of Reviews": "1,046 reviews",
+  "Report Card": {
+    "Overall Grade": "grade A+",
+    "Academics": "grade A+",
+    "Value": "grade A+",
+    "Diversity": "grade A+",
+    "Campus": "grade A",
+    "Athletics": "grade A minus",
+    "Party Scene": "grade A+",
+    "Professors": "grade A+",
+    "Location": "grade A",
+    "Dorms": "grade A",
+    "Campus Food": "grade A",
+    "Student Life": "grade A+",
+    "Safety": "grade C+"
+  },
+  "editorial": "Description Here",
+  "About": {
+    "Website": "https://www.usc.edu/",
+    "Address": "133 WALL ST NEW HAVEN , CT 06511",
+    "About": [
+      "Common App Accepted",
+      "Private",
+      "SAT/ACT Optional"
+    ],
+    "Athletic Division": "NCAA Division I-FBS",
+    "Athletic Conference": "Pacific-12 Conference"
+  },
+  "Rankings": [
+    {
+      "Ranking1 Name": "value here"
+    },
+    {
+      "Ranking2 name": "value"
+    }
+  ],
+  "Admissions": {
+    "description": "describe what is acceptance rate",
+    "acceptance_rate": "vaue",
+    "SAT_Range": "value",
+    "SAT_Reading": "value",
+    "SAT_MATH": "value",
+    "submitting_SAT": "value",
+    "early_decision_acceptance_rate": "value",
+    "total_applicants": "value",
+    "ACT_Range": "value",
+    "ACT_English": "value",
+    "ACT_MATH": "value",
+    "ACT_writing": "value",
+    "Student_submiting_act": "value",
+    "application_deadline": "value",
+    "early_decision_deadline": "value",
+    "early_action_deadline": "value",
+    "offers_early_decision": "value",
+    "offers_early_action": "value",
+    "application_fee": "value",
+    "application_website": "value",
+    "accepts_common_app": "value",
+    "accepts_coalition_app": "value",
+    "high_school_gpa": "value",
+    "high_school_rank": "value",
+    "high_school_transcript": "value",
+    "college_prep_courses": "value",
+    "SAT/ACT": "value",
+    "Recomendations": "value"
+  },
+  "Cost": {
+    "net_price": "value",
+    "avg_total_aid_awarded": "value",
+    "students_receiving_financial_aid": "value",
+    "in_state_tution": "value",
+    "average_housing_cost": "value",
+    "average_meal_plan_cost": "value",
+    "book_and_supplies": "value",
+    "out_of_state_tuition": "value",
+    "tuition_gurantee_plan": "value",
+    "tuition_payment_plan": "value",
+    "prepaid_tution_plan": "value"
+  },
+  "Scholarships": [],
+  "Academics": {
+    "graduation_rate": "value",
+    "full_time_retention_rate": "value",
+    "part_time_retention_rate": "value",
+    "academic_calendar": "value",
+    "research_funding_student": "value",
+    "evening_degree+programs": "value",
+    "teacher_certification": "value",
+    "study_abroad": "value",
+    "faculty": {
+      "student_faculty_ratio": "value",
+      "female_professors": "value",
+      "male_professors": "value",
+      "average_professor_salary": "value",
+      "faculty_poll": []
+    },
+    "Majors": {
+      "Major1": "value",
+      "Major_N": "value"
+    },
+    "Online": {
+      "program_offered_entirely_online": "value",
+      "offers_online_courses": "value",
+      "online_and_on_campus_percentage": "value",
+      "on_campus_percentage": "value",
+      "online_percentage": "value",
+      "online_certificate_program": "value",
+      "online_associates_program": "value",
+      "online_bachelor's program": "value"
+    },
+    "Students": {
+      "attribute 1": "value",
+      "attribue N": "value"
+    },
+    "Campus Life": {
+      "attribute 1": "value",
+      "attribue N": "value"
+    },
+    "After College": {
+      "attribute 1": "value",
+      "attribue N": "value"
+    },
+    "Reviews": [
+      {
+        "rating": "value",
+        "text": "value"
+      },
+      {
+        "rating N": "value",
+        "text N": "value"
+      }
+    ]
+  }
+}

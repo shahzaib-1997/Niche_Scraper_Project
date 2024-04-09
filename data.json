@@ -1,0 +1,87 @@
+{
+    "Title": "Yale University",
+    "Images": [
+        "https://d13b2ieg84qqce.cloudfront.net/56bf962d9b50945b144fb23398fe73404a49d815",
+        "https://d13b2ieg84qqce.cloudfront.net/0458738b833915a50b21ce02ca7cd567f0ff7c07"
+    ],
+    "Badge": "#1 in Best Colleges in America",
+    "Facts": [
+        "4 Year",
+        "NEW HAVEN, CT"
+    ],
+    "Ratings": "Rating 4.02 out of 5",
+    "No of Reviews": "1,046 reviews",
+    "Report Card": {
+        "Overall Grade": "grade A+",
+        "Academics": "grade A+",
+        "Value": "grade A+",
+        "Diversity": "grade A+",
+        "Campus": "grade A",
+        "Athletics": "grade A minus",
+        "Party Scene": "grade A+",
+        "Professors": "grade A+",
+        "Location": "grade A",
+        "Dorms": "grade A",
+        "Campus Food": "grade A",
+        "Student Life": "grade A+",
+        "Safety": "grade C+"
+    },
+    "editorial": "Yale is an elite private university located in New Haven, Connecticut. It is a mid-size institution with an enrollment of 6,532 undergraduate students. Admissions is extremely competitive as the Yale acceptance rate is only 5%. Popular majors include Economics, History, and Political Science and Government. Graduating 97% of students, Yale alumni go on to earn a starting salary of $56,600.",
+    "About": {
+        "Website": "https://admissions.yale.edu",
+        "Address": "133 WALL ST NEW HAVEN , CT 06511",
+        "About": [
+            "Common App Accepted",
+            "Private",
+            "SAT/ACT Optional"
+        ],
+        "Athletic Division": "NCAA Division I-FCS",
+        "Athletic Conference": "Ivy League"
+    },
+    "Rankings": [
+        {
+            "Colleges with the Best Academics in America": "1 of 1,543"
+        },
+        {
+            "Best Colleges in America": "1 of 1,537"
+        },
+        {
+            "Colleges with the Best Professors in America": "1 of 1,527"
+        }
+    ],
+    "Admissions": {
+        "description": "Yale admissions is extremely selective with an acceptance rate of 5%. Students that get into Yale have an average SAT score between 1480-1580 or an average ACT score of 33-35. The regular admissions application deadline for Yale is January 2. Interested students can apply for early action, and the Yale early action deadline is November 1.",
+        "acceptance_rate": "5%",
+        "SAT_Range": "1480-1580",
+        "SAT_Reading": "730-780",
+        "SAT_MATH": "750-800",
+        "submitting_SAT": "54%",
+        "early_decision_acceptance_rate": "\u2014",
+        "total_applicants": "47,240",
+        "ACT_Range": "33-35",
+        "ACT_English": "35-36",
+        "ACT_MATH": "31-35",
+        "ACT_writing": "\u2014",
+        "Student_submiting_act": "35%",
+        "application_deadline": "January 2",
+        "early_decision_deadline": "\u2014",
+        "early_action_deadline": "November 1",
+        "offers_early_decision": "No",
+        "offers_early_action": "Yes",
+        "application_fee": "$80",
+        "application_website": "https://admissions.yale.edu/first-year-application-process",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "Yes",
+        "high_school_gpa": "Recommended",
+        "high_school_rank": "Recommended",
+        "high_school_transcript": "Required",
+        "college_prep_courses": "Neither required nor recommended",
+        "SAT/ACT": "Considered but not required",
+        "Recommendations": "Required"
+    },
+    "Cost": {
+        "net_price": "$20,605/ yearNational$15,523",
+        "avg_total_aid_awarded": "$58,715/ yearNational$7,535",
+        "students_receiving_financial_aid": "66%"
+    }
+}

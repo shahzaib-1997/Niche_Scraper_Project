@@ -56,7 +56,7 @@
         "SAT_Reading": "730-780",
         "SAT_MATH": "750-800",
         "submitting_SAT": "54%",
-        "early_decision_acceptance_rate": "\u2014",
+        "early_decision_acceptance_rate": "NA",
         "total_applicants": "47,240",
         "ACT_Range": "33-35",
         "ACT_English": "35-36",
@@ -82,6 +82,31 @@
     "Cost": {
         "net_price": "$20,605/ yearNational$15,523",
         "avg_total_aid_awarded": "$58,715/ yearNational$7,535",
-        "students_receiving_financial_aid": "66%"
+        "students_receiving_financial_aid": "66%",
+        "in_state_tuition": "$62,250/ year",
+        "average_housing_cost": "$10,100/ year",
+        "average_meal_plan_cost": "$7,700/ year",
+        "book_and_supplies": "$1,000/ year",
+        "out_of_state_tuition": "$62,250/ year",
+        "tuition_gurantee_plan": "$10,100/ year",
+        "tuition_payment_plan": "$7,700/ year",
+        "prepaid_tution_plan": "$1,000/ year"
+    },
+    "Academics": {
+        "graduation_rate": "97%National49%",
+        "full_time_retention_rate": "98%",
+        "part_time_retention_rate": "No data available \u00a0\u2014",
+        "academic_calendar": "Semester",
+        "research_funding_student": "$46,945National$1,524",
+        "evening_degree_programs": "No",
+        "teacher_certification": "No",
+        "study_abroad": "Yes",
+        "faculty": {
+            "student_faculty_ratio": "2:1",
+            "female_professors": "41%",
+            "male_professors": "59%",
+            "average_professor_salary": "$272,933",
+            "faculty_poll": "52%"
+        }
     }
 }

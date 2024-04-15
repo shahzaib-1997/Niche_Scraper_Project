@@ -10,7 +10,7 @@
         "NEW HAVEN, CT"
     ],
     "Ratings": "Rating 4.02 out of 5",
-    "No of Reviews": "1,046 reviews",
+    "No of Reviews": "1,049 reviews",
     "Report Card": {
         "Overall Grade": "grade A+",
         "Academics": "grade A+",
@@ -47,6 +47,192 @@
         },
         {
             "Colleges with the Best Professors in America": "1 of 1,527"
+        },
+        {
+            "Best Test Optional Colleges in America": "1 of 1,454"
+        },
+        {
+            "Top Private Universities in America": "1 of 936"
+        },
+        {
+            "Best Colleges for History in America": "1 of 933"
+        },
+        {
+            "Best Colleges that Accept the Common App in America": "1 of 781"
+        },
+        {
+            "Best Colleges for Art in America": "1 of 736"
+        },
+        {
+            "Best Colleges for Religious Studies in America": "1 of 378"
+        },
+        {
+            "Best Colleges for Film and Photography in America": "1 of 285"
+        },
+        {
+            "Best Colleges for Psychology in America": "2 of 1,127"
+        },
+        {
+            "Best Colleges for Economics in America": "2 of 554"
+        },
+        {
+            "Best Colleges for International Relations in America": "2 of 405"
+        },
+        {
+            "Best Colleges for Global Studies in America": "2 of 202"
+        },
+        {
+            "Best Colleges for Biology in America": "3 of 1,102"
+        },
+        {
+            "Best Colleges for English in America": "3 of 901"
+        },
+        {
+            "Best Colleges for Political Science in America": "3 of 822"
+        },
+        {
+            "Best Colleges for Environmental Science in America": "3 of 651"
+        },
+        {
+            "Best Colleges for Philosophy in America": "3 of 455"
+        },
+        {
+            "Best Colleges for Math in America": "4 of 776"
+        },
+        {
+            "Colleges with the Best Student Life in America": "5 of 1,509"
+        },
+        {
+            "Best Colleges for Engineering in America": "5 of 503"
+        },
+        {
+            "Best Colleges for Anthropology and Sociology in America": "6 of 762"
+        },
+        {
+            "Best Colleges for Chemistry in America": "6 of 646"
+        },
+        {
+            "Best Colleges for Physics in America": "6 of 447"
+        },
+        {
+            "Best Colleges for Performing Arts in America": "7 of 558"
+        },
+        {
+            "Best Colleges for Architecture in America": "7 of 161"
+        },
+        {
+            "Most Diverse Colleges in America": "8 of 1,517"
+        },
+        {
+            "Best Value Colleges in America": "8 of 1,482"
+        },
+        {
+            "Hardest Colleges to Get Into in America": "8 of 174"
+        },
+        {
+            "Best Colleges for Computer Science in America": "9 of 891"
+        },
+        {
+            "Best Colleges for Public Policy in America": "14 of 643"
+        },
+        {
+            "Best Colleges for Student Athletes in America": "16 of 1,323"
+        },
+        {
+            "Best College Campuses in America": "26 of 1,387"
+        },
+        {
+            "Best College Dorms in America": "54 of 1,363"
+        },
+        {
+            "Top Party Schools in America": "78 of 1,512"
+        },
+        {
+            "Best College Food in America": "84 of 1,361"
+        },
+        {
+            "Best College Locations in America": "121 of 1,527"
+        },
+        {
+            "Best Greek Life Colleges in America": "133 of 689"
+        },
+        {
+            "Best College Athletics in America": "179 of 1,344"
+        },
+        {
+            "Best College Locations in Connecticut": "1 of 23"
+        },
+        {
+            "Colleges with the Best Student Life in Connecticut": "1 of 23"
+        },
+        {
+            "Most Diverse Colleges in Connecticut": "1 of 23"
+        },
+        {
+            "Top Party Schools in Connecticut": "1 of 23"
+        },
+        {
+            "Best Colleges in Connecticut": "1 of 22"
+        },
+        {
+            "Best Test Optional Colleges in Connecticut": "1 of 22"
+        },
+        {
+            "Best College Campuses in Connecticut": "1 of 21"
+        },
+        {
+            "Best Value Colleges in Connecticut": "1 of 21"
+        },
+        {
+            "Best College Dorms in Connecticut": "1 of 20"
+        },
+        {
+            "Colleges with the Best Academics in Connecticut": "1 of 20"
+        },
+        {
+            "Colleges with the Best Professors in Connecticut": "1 of 20"
+        },
+        {
+            "Best Colleges for Student Athletes in Connecticut": "1 of 19"
+        },
+        {
+            "Best Colleges for Psychology in Connecticut": "1 of 18"
+        },
+        {
+            "Best Colleges that Accept the Common App in Connecticut": "1 of 18"
+        },
+        {
+            "Best Colleges for Biology in Connecticut": "1 of 16"
+        },
+        {
+            "Best Colleges for Computer Science in Connecticut": "1 of 15"
+        },
+        {
+            "Best Colleges for History in Connecticut": "1 of 15"
+        },
+        {
+            "Best Colleges for Political Science in Connecticut": "1 of 15"
+        },
+        {
+            "Best Colleges for English in Connecticut": "1 of 14"
+        },
+        {
+            "Top Private Universities in Connecticut": "1 of 14"
+        },
+        {
+            "Best Colleges for Economics in Connecticut": "1 of 13"
+        },
+        {
+            "Hardest Colleges to Get Into in Connecticut": "1 of 5"
+        },
+        {
+            "Best Greek Life Colleges in Connecticut": "2 of 11"
+        },
+        {
+            "Best College Athletics in Connecticut": "3 of 19"
+        },
+        {
+            "Best College Food in Connecticut": "3 of 19"
         }
     ],
     "Admissions": {
@@ -61,10 +247,10 @@
         "ACT_Range": "33-35",
         "ACT_English": "35-36",
         "ACT_MATH": "31-35",
-        "ACT_writing": "\u2014",
+        "ACT_writing": "",
         "Student_submiting_act": "35%",
         "application_deadline": "January 2",
-        "early_decision_deadline": "\u2014",
+        "early_decision_deadline": "",
         "early_action_deadline": "November 1",
         "offers_early_decision": "No",
         "offers_early_action": "Yes",
@@ -84,18 +270,18 @@
         "avg_total_aid_awarded": "$58,715/ yearNational$7,535",
         "students_receiving_financial_aid": "66%",
         "in_state_tuition": "$62,250/ year",
+        "out_of_state_tuition": "$62,250/ year",
         "average_housing_cost": "$10,100/ year",
         "average_meal_plan_cost": "$7,700/ year",
         "book_and_supplies": "$1,000/ year",
-        "out_of_state_tuition": "$62,250/ year",
-        "tuition_gurantee_plan": "$10,100/ year",
-        "tuition_payment_plan": "$7,700/ year",
-        "prepaid_tution_plan": "$1,000/ year"
+        "tuition_gurantee_plan": "No",
+        "tuition_payment_plan": "Yes",
+        "prepaid_tution_plan": "No"
     },
     "Academics": {
         "graduation_rate": "97%National49%",
         "full_time_retention_rate": "98%",
-        "part_time_retention_rate": "No data available \u00a0\u2014",
+        "part_time_retention_rate": "No data available ",
         "academic_calendar": "Semester",
         "research_funding_student": "$46,945National$1,524",
         "evening_degree_programs": "No",
@@ -106,7 +292,41 @@
             "female_professors": "41%",
             "male_professors": "59%",
             "average_professor_salary": "$272,933",
-            "faculty_poll": "52%"
+            "faculty_poll": "50%"
         }
+    },
+    "Majors": {
+        "Economics": "188 Graduates",
+        "History": "100 Graduates",
+        "Political Science and Government": "97 Graduates",
+        "Liberal Arts and Humanities": "88 Graduates",
+        "Cellular Biology": "83 Graduates",
+        "Information Science": "83 Graduates",
+        "Statistics": "64 Graduates",
+        "Research and Experimental Psychology": "53 Graduates",
+        "International Relations": "46 Graduates",
+        "Mathematics": "46 Graduates"
+    },
+    "Students": {
+        "Full-Time Enrollment": "6,532Undergrads",
+        "Part-Time Undergrads": "4",
+        "Undergrads Over 25": "1%",
+        "Pell Grant": "21%",
+        "Varsity Athletes": "15%"
+    },
+    "Campus Life": {
+        "On-Campus Housing Available": "Yes",
+        "Freshmen Required to Live on Campus": "Yes",
+        "Freshmen Live On-Campus": "100%",
+        "Undergrads in College Housing": "83%",
+        "Average Housing Cost": "$10,100/ year",
+        "Meal Plan Available": "Yes",
+        "Average Meal Plan Cost": "$7,700/ year",
+        "Men's Varsity Sports": "All Track Combined, Baseball, Basketball, Fencing, Football, Golf, IceHockey, Lacrosse, Rowing, Sailing, Soccer, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country",
+        "Women's Varsity Sports": "All Track Combined, Basketball, Fencing, Field Hockey, Golf, Gymnastics, IceHockey, Lacrosse, Sailing, Skiing, Soccer, Softball, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country, Volleyball",
+        "Clubs Offered": "Campus Ministries, Dance, Drama/Theater, Film Society, International Student Organizations, Literary Magazine, Model UN, Newspaper, Radio Station, Student Government, Television Station, Yearbook",
+        "Music": "Choral Groups, Concert Band, Jazz Band, Marching Band, Musical Theater, Music Ensembles, Opera, Pep Band, Symphony Orchestra",
+        "Men in Fraternities": "No data available ",
+        "Women in Sororities": "No data available "
     }
 }

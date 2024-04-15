@@ -1,332 +1,717 @@
-{
-    "Title": "Yale University",
-    "Images": [
-        "https://d13b2ieg84qqce.cloudfront.net/56bf962d9b50945b144fb23398fe73404a49d815",
-        "https://d13b2ieg84qqce.cloudfront.net/0458738b833915a50b21ce02ca7cd567f0ff7c07"
-    ],
-    "Badge": "#1 in Best Colleges in America",
-    "Facts": [
-        "4 Year",
-        "NEW HAVEN, CT"
-    ],
-    "Ratings": "Rating 4.02 out of 5",
-    "No of Reviews": "1,049 reviews",
-    "Report Card": {
-        "Overall Grade": "grade A+",
-        "Academics": "grade A+",
-        "Value": "grade A+",
-        "Diversity": "grade A+",
-        "Campus": "grade A",
-        "Athletics": "grade A minus",
-        "Party Scene": "grade A+",
-        "Professors": "grade A+",
-        "Location": "grade A",
-        "Dorms": "grade A",
-        "Campus Food": "grade A",
-        "Student Life": "grade A+",
-        "Safety": "grade C+"
-    },
-    "editorial": "Yale is an elite private university located in New Haven, Connecticut. It is a mid-size institution with an enrollment of 6,532 undergraduate students. Admissions is extremely competitive as the Yale acceptance rate is only 5%. Popular majors include Economics, History, and Political Science and Government. Graduating 97% of students, Yale alumni go on to earn a starting salary of $56,600.",
-    "About": {
-        "Website": "https://admissions.yale.edu",
-        "Address": "133 WALL ST NEW HAVEN , CT 06511",
-        "About": [
-            "Common App Accepted",
-            "Private",
-            "SAT/ACT Optional"
+[
+    {
+        "Title": "Yale University",
+        "Images": [
+            "https://d13b2ieg84qqce.cloudfront.net/56bf962d9b50945b144fb23398fe73404a49d815",
+            "https://d13b2ieg84qqce.cloudfront.net/0458738b833915a50b21ce02ca7cd567f0ff7c07"
         ],
-        "Athletic Division": "NCAA Division I-FCS",
-        "Athletic Conference": "Ivy League"
-    },
-    "Rankings": [
-        {
-            "Colleges with the Best Academics in America": "1 of 1,543"
-        },
-        {
-            "Best Colleges in America": "1 of 1,537"
-        },
-        {
-            "Colleges with the Best Professors in America": "1 of 1,527"
-        },
-        {
-            "Best Test Optional Colleges in America": "1 of 1,454"
-        },
-        {
-            "Top Private Universities in America": "1 of 936"
-        },
-        {
-            "Best Colleges for History in America": "1 of 933"
-        },
-        {
-            "Best Colleges that Accept the Common App in America": "1 of 781"
-        },
-        {
-            "Best Colleges for Art in America": "1 of 736"
-        },
-        {
-            "Best Colleges for Religious Studies in America": "1 of 378"
-        },
-        {
-            "Best Colleges for Film and Photography in America": "1 of 285"
-        },
-        {
-            "Best Colleges for Psychology in America": "2 of 1,127"
-        },
-        {
-            "Best Colleges for Economics in America": "2 of 554"
-        },
-        {
-            "Best Colleges for International Relations in America": "2 of 405"
-        },
-        {
-            "Best Colleges for Global Studies in America": "2 of 202"
-        },
-        {
-            "Best Colleges for Biology in America": "3 of 1,102"
-        },
-        {
-            "Best Colleges for English in America": "3 of 901"
-        },
-        {
-            "Best Colleges for Political Science in America": "3 of 822"
-        },
-        {
-            "Best Colleges for Environmental Science in America": "3 of 651"
-        },
-        {
-            "Best Colleges for Philosophy in America": "3 of 455"
-        },
-        {
-            "Best Colleges for Math in America": "4 of 776"
-        },
-        {
-            "Colleges with the Best Student Life in America": "5 of 1,509"
-        },
-        {
-            "Best Colleges for Engineering in America": "5 of 503"
-        },
-        {
-            "Best Colleges for Anthropology and Sociology in America": "6 of 762"
-        },
-        {
-            "Best Colleges for Chemistry in America": "6 of 646"
-        },
-        {
-            "Best Colleges for Physics in America": "6 of 447"
-        },
-        {
-            "Best Colleges for Performing Arts in America": "7 of 558"
-        },
-        {
-            "Best Colleges for Architecture in America": "7 of 161"
-        },
-        {
-            "Most Diverse Colleges in America": "8 of 1,517"
-        },
-        {
-            "Best Value Colleges in America": "8 of 1,482"
-        },
-        {
-            "Hardest Colleges to Get Into in America": "8 of 174"
-        },
-        {
-            "Best Colleges for Computer Science in America": "9 of 891"
-        },
-        {
-            "Best Colleges for Public Policy in America": "14 of 643"
-        },
-        {
-            "Best Colleges for Student Athletes in America": "16 of 1,323"
-        },
-        {
-            "Best College Campuses in America": "26 of 1,387"
-        },
-        {
-            "Best College Dorms in America": "54 of 1,363"
-        },
-        {
-            "Top Party Schools in America": "78 of 1,512"
-        },
-        {
-            "Best College Food in America": "84 of 1,361"
-        },
-        {
-            "Best College Locations in America": "121 of 1,527"
-        },
-        {
-            "Best Greek Life Colleges in America": "133 of 689"
-        },
-        {
-            "Best College Athletics in America": "179 of 1,344"
-        },
-        {
-            "Best College Locations in Connecticut": "1 of 23"
-        },
-        {
-            "Colleges with the Best Student Life in Connecticut": "1 of 23"
-        },
-        {
-            "Most Diverse Colleges in Connecticut": "1 of 23"
-        },
-        {
-            "Top Party Schools in Connecticut": "1 of 23"
-        },
-        {
-            "Best Colleges in Connecticut": "1 of 22"
-        },
-        {
-            "Best Test Optional Colleges in Connecticut": "1 of 22"
-        },
-        {
-            "Best College Campuses in Connecticut": "1 of 21"
-        },
-        {
-            "Best Value Colleges in Connecticut": "1 of 21"
-        },
-        {
-            "Best College Dorms in Connecticut": "1 of 20"
-        },
-        {
-            "Colleges with the Best Academics in Connecticut": "1 of 20"
-        },
-        {
-            "Colleges with the Best Professors in Connecticut": "1 of 20"
-        },
-        {
-            "Best Colleges for Student Athletes in Connecticut": "1 of 19"
-        },
-        {
-            "Best Colleges for Psychology in Connecticut": "1 of 18"
-        },
-        {
-            "Best Colleges that Accept the Common App in Connecticut": "1 of 18"
-        },
-        {
-            "Best Colleges for Biology in Connecticut": "1 of 16"
-        },
-        {
-            "Best Colleges for Computer Science in Connecticut": "1 of 15"
-        },
-        {
-            "Best Colleges for History in Connecticut": "1 of 15"
-        },
-        {
-            "Best Colleges for Political Science in Connecticut": "1 of 15"
-        },
-        {
-            "Best Colleges for English in Connecticut": "1 of 14"
-        },
-        {
-            "Top Private Universities in Connecticut": "1 of 14"
-        },
-        {
-            "Best Colleges for Economics in Connecticut": "1 of 13"
-        },
-        {
-            "Hardest Colleges to Get Into in Connecticut": "1 of 5"
-        },
-        {
-            "Best Greek Life Colleges in Connecticut": "2 of 11"
-        },
-        {
-            "Best College Athletics in Connecticut": "3 of 19"
-        },
-        {
-            "Best College Food in Connecticut": "3 of 19"
+        "Badge": "#1 in Best Colleges in America",
+        "Facts": [
+            "4 Year",
+            "NEW HAVEN, CT"
+        ],
+        "Ratings": "Rating 4.02 out of 5",
+        "No of Reviews": "1,049 reviews",
+        "Report Card": {
+            "Overall Grade": "grade A+",
+            "Academics": "grade A+",
+            "Value": "grade A+",
+            "Diversity": "grade A+",
+            "Campus": "grade A",
+            "Athletics": "grade A minus",
+            "Party Scene": "grade A+",
+            "Professors": "grade A+",
+            "Location": "grade A",
+            "Dorms": "grade A",
+            "Campus Food": "grade A",
+            "Student Life": "grade A+",
+            "Safety": "grade C+"
+        },
+        "editorial": "Yale is an elite private university located in New Haven, Connecticut. It is a mid-size institution with an enrollment of 6,532 undergraduate students. Admissions is extremely competitive as the Yale acceptance rate is only 5%. Popular majors include Economics, History, and Political Science and Government. Graduating 97% of students, Yale alumni go on to earn a starting salary of $56,600.",
+        "About": {
+            "Website": "https://admissions.yale.edu",
+            "Address": "133 WALL ST NEW HAVEN , CT 06511",
+            "About": [
+                "Common App Accepted",
+                "Private",
+                "SAT/ACT Optional"
+            ],
+            "Athletic Division": "NCAA Division I-FCS",
+            "Athletic Conference": "Ivy League"
+        },
+        "Rankings": [
+            {
+                "Colleges with the Best Academics in America": "1 of 1,543"
+            },
+            {
+                "Best Colleges in America": "1 of 1,537"
+            },
+            {
+                "Colleges with the Best Professors in America": "1 of 1,527"
+            },
+            {
+                "Best Test Optional Colleges in America": "1 of 1,454"
+            },
+            {
+                "Top Private Universities in America": "1 of 936"
+            },
+            {
+                "Best Colleges for History in America": "1 of 933"
+            },
+            {
+                "Best Colleges that Accept the Common App in America": "1 of 781"
+            },
+            {
+                "Best Colleges for Art in America": "1 of 736"
+            },
+            {
+                "Best Colleges for Religious Studies in America": "1 of 378"
+            },
+            {
+                "Best Colleges for Film and Photography in America": "1 of 285"
+            },
+            {
+                "Best Colleges for Psychology in America": "2 of 1,127"
+            },
+            {
+                "Best Colleges for Economics in America": "2 of 554"
+            },
+            {
+                "Best Colleges for International Relations in America": "2 of 405"
+            },
+            {
+                "Best Colleges for Global Studies in America": "2 of 202"
+            },
+            {
+                "Best Colleges for Biology in America": "3 of 1,102"
+            },
+            {
+                "Best Colleges for English in America": "3 of 901"
+            },
+            {
+                "Best Colleges for Political Science in America": "3 of 822"
+            },
+            {
+                "Best Colleges for Environmental Science in America": "3 of 651"
+            },
+            {
+                "Best Colleges for Philosophy in America": "3 of 455"
+            },
+            {
+                "Best Colleges for Math in America": "4 of 776"
+            },
+            {
+                "Colleges with the Best Student Life in America": "5 of 1,509"
+            },
+            {
+                "Best Colleges for Engineering in America": "5 of 503"
+            },
+            {
+                "Best Colleges for Anthropology and Sociology in America": "6 of 762"
+            },
+            {
+                "Best Colleges for Chemistry in America": "6 of 646"
+            },
+            {
+                "Best Colleges for Physics in America": "6 of 447"
+            },
+            {
+                "Best Colleges for Performing Arts in America": "7 of 558"
+            },
+            {
+                "Best Colleges for Architecture in America": "7 of 161"
+            },
+            {
+                "Most Diverse Colleges in America": "8 of 1,517"
+            },
+            {
+                "Best Value Colleges in America": "8 of 1,482"
+            },
+            {
+                "Hardest Colleges to Get Into in America": "8 of 174"
+            },
+            {
+                "Best Colleges for Computer Science in America": "9 of 891"
+            },
+            {
+                "Best Colleges for Public Policy in America": "14 of 643"
+            },
+            {
+                "Best Colleges for Student Athletes in America": "16 of 1,323"
+            },
+            {
+                "Best College Campuses in America": "26 of 1,387"
+            },
+            {
+                "Best College Dorms in America": "54 of 1,363"
+            },
+            {
+                "Top Party Schools in America": "78 of 1,512"
+            },
+            {
+                "Best College Food in America": "84 of 1,361"
+            },
+            {
+                "Best College Locations in America": "121 of 1,527"
+            },
+            {
+                "Best Greek Life Colleges in America": "133 of 689"
+            },
+            {
+                "Best College Athletics in America": "179 of 1,344"
+            },
+            {
+                "Best College Locations in Connecticut": "1 of 23"
+            },
+            {
+                "Colleges with the Best Student Life in Connecticut": "1 of 23"
+            },
+            {
+                "Most Diverse Colleges in Connecticut": "1 of 23"
+            },
+            {
+                "Top Party Schools in Connecticut": "1 of 23"
+            },
+            {
+                "Best Colleges in Connecticut": "1 of 22"
+            },
+            {
+                "Best Test Optional Colleges in Connecticut": "1 of 22"
+            },
+            {
+                "Best College Campuses in Connecticut": "1 of 21"
+            },
+            {
+                "Best Value Colleges in Connecticut": "1 of 21"
+            },
+            {
+                "Best College Dorms in Connecticut": "1 of 20"
+            },
+            {
+                "Colleges with the Best Academics in Connecticut": "1 of 20"
+            },
+            {
+                "Colleges with the Best Professors in Connecticut": "1 of 20"
+            },
+            {
+                "Best Colleges for Student Athletes in Connecticut": "1 of 19"
+            },
+            {
+                "Best Colleges for Psychology in Connecticut": "1 of 18"
+            },
+            {
+                "Best Colleges that Accept the Common App in Connecticut": "1 of 18"
+            },
+            {
+                "Best Colleges for Biology in Connecticut": "1 of 16"
+            },
+            {
+                "Best Colleges for Computer Science in Connecticut": "1 of 15"
+            },
+            {
+                "Best Colleges for History in Connecticut": "1 of 15"
+            },
+            {
+                "Best Colleges for Political Science in Connecticut": "1 of 15"
+            },
+            {
+                "Best Colleges for English in Connecticut": "1 of 14"
+            },
+            {
+                "Top Private Universities in Connecticut": "1 of 14"
+            },
+            {
+                "Best Colleges for Economics in Connecticut": "1 of 13"
+            },
+            {
+                "Hardest Colleges to Get Into in Connecticut": "1 of 5"
+            },
+            {
+                "Best Greek Life Colleges in Connecticut": "2 of 11"
+            },
+            {
+                "Best College Athletics in Connecticut": "3 of 19"
+            },
+            {
+                "Best College Food in Connecticut": "3 of 19"
+            }
+        ],
+        "Admissions": {
+            "description": "Yale admissions is extremely selective with an acceptance rate of 5%. Students that get into Yale have an average SAT score between 1480-1580 or an average ACT score of 33-35. The regular admissions application deadline for Yale is January 2. Interested students can apply for early action, and the Yale early action deadline is November 1.",
+            "acceptance_rate": "5%",
+            "SAT_Range": "1480-1580",
+            "SAT_Reading": "730-780",
+            "SAT_MATH": "750-800",
+            "submitting_SAT": "54%",
+            "early_decision_acceptance_rate": "NA",
+            "total_applicants": "47,240",
+            "ACT_Range": "33-35",
+            "ACT_English": "35-36",
+            "ACT_MATH": "31-35",
+            "ACT_writing": "",
+            "Student_submiting_act": "35%",
+            "application_deadline": "January 2",
+            "early_decision_deadline": "",
+            "early_action_deadline": "November 1",
+            "offers_early_decision": "No",
+            "offers_early_action": "Yes",
+            "application_fee": "$80",
+            "application_website": "https://admissions.yale.edu/first-year-application-process",
+            "accepts_common_app": "Yes",
+            "accepts_coalition_app": "Yes",
+            "high_school_gpa": "Recommended",
+            "high_school_rank": "Recommended",
+            "high_school_transcript": "Required",
+            "college_prep_courses": "Neither required nor recommended",
+            "SAT/ACT": "Considered but not required",
+            "Recommendations": "Required"
+        },
+        "Cost": {
+            "net_price": "$20,605/ year National $15,523",
+            "avg_total_aid_awarded": "$58,715/ year National $7,535",
+            "students_receiving_financial_aid": "66%",
+            "in_state_tuition": "$62,250/ year",
+            "out_of_state_tuition": "$62,250/ year",
+            "average_housing_cost": "$10,100/ year",
+            "average_meal_plan_cost": "$7,700/ year",
+            "book_and_supplies": "$1,000/ year",
+            "tuition_gurantee_plan": "No",
+            "tuition_payment_plan": "Yes",
+            "prepaid_tution_plan": "No"
+        },
+        "Academics": {
+            "graduation_rate": "97% National 49%",
+            "full_time_retention_rate": "98%",
+            "part_time_retention_rate": "No data available ",
+            "academic_calendar": "Semester",
+            "research_funding_student": "$46,945 National $1,524",
+            "evening_degree_programs": "No",
+            "teacher_certification": "No",
+            "study_abroad": "Yes",
+            "faculty": {
+                "student_faculty_ratio": "2:1",
+                "female_professors": "41%",
+                "male_professors": "59%",
+                "average_professor_salary": "$272,933",
+                "faculty_poll": "50%"
+            }
+        },
+        "Majors": {
+            "Economics": "188 Graduates",
+            "History": "100 Graduates",
+            "Political Science and Government": "97 Graduates",
+            "Liberal Arts and Humanities": "88 Graduates",
+            "Cellular Biology": "83 Graduates",
+            "Information Science": "83 Graduates",
+            "Statistics": "64 Graduates",
+            "Research and Experimental Psychology": "53 Graduates",
+            "International Relations": "46 Graduates",
+            "Mathematics": "46 Graduates"
+        },
+        "Online": {},
+        "Students": {
+            "Full-Time Enrollment": "6,532Undergrads",
+            "Part-Time Undergrads": "4",
+            "Undergrads Over 25": "1%",
+            "Pell Grant": "21%",
+            "Varsity Athletes": "15%"
+        },
+        "Campus Life": {
+            "On-Campus Housing Available": "Yes",
+            "Freshmen Required to Live on Campus": "Yes",
+            "Freshmen Live On-Campus": "100%",
+            "Undergrads in College Housing": "83%",
+            "Average Housing Cost": "$10,100/ year",
+            "Meal Plan Available": "Yes",
+            "Average Meal Plan Cost": "$7,700/ year",
+            "Men's Varsity Sports": "All Track Combined, Baseball, Basketball, Fencing, Football, Golf, IceHockey, Lacrosse, Rowing, Sailing, Soccer, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country",
+            "Women's Varsity Sports": "All Track Combined, Basketball, Fencing, Field Hockey, Golf, Gymnastics, IceHockey, Lacrosse, Sailing, Skiing, Soccer, Softball, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country, Volleyball",
+            "Clubs Offered": "Campus Ministries, Dance, Drama/Theater, Film Society, International Student Organizations, Literary Magazine, Model UN, Newspaper, Radio Station, Student Government, Television Station, Yearbook",
+            "Music": "Choral Groups, Concert Band, Jazz Band, Marching Band, Musical Theater, Music Ensembles, Opera, Pep Band, Symphony Orchestra",
+            "Men in Fraternities": "No data available ",
+            "Women in Sororities": "No data available "
         }
-    ],
-    "Admissions": {
-        "description": "Yale admissions is extremely selective with an acceptance rate of 5%. Students that get into Yale have an average SAT score between 1480-1580 or an average ACT score of 33-35. The regular admissions application deadline for Yale is January 2. Interested students can apply for early action, and the Yale early action deadline is November 1.",
-        "acceptance_rate": "5%",
-        "SAT_Range": "1480-1580",
-        "SAT_Reading": "730-780",
-        "SAT_MATH": "750-800",
-        "submitting_SAT": "54%",
-        "early_decision_acceptance_rate": "NA",
-        "total_applicants": "47,240",
-        "ACT_Range": "33-35",
-        "ACT_English": "35-36",
-        "ACT_MATH": "31-35",
-        "ACT_writing": "",
-        "Student_submiting_act": "35%",
-        "application_deadline": "January 2",
-        "early_decision_deadline": "",
-        "early_action_deadline": "November 1",
-        "offers_early_decision": "No",
-        "offers_early_action": "Yes",
-        "application_fee": "$80",
-        "application_website": "https://admissions.yale.edu/first-year-application-process",
-        "accepts_common_app": "Yes",
-        "accepts_coalition_app": "Yes",
-        "high_school_gpa": "Recommended",
-        "high_school_rank": "Recommended",
-        "high_school_transcript": "Required",
-        "college_prep_courses": "Neither required nor recommended",
-        "SAT/ACT": "Considered but not required",
-        "Recommendations": "Required"
     },
-    "Cost": {
-        "net_price": "$20,605/ yearNational$15,523",
-        "avg_total_aid_awarded": "$58,715/ yearNational$7,535",
-        "students_receiving_financial_aid": "66%",
-        "in_state_tuition": "$62,250/ year",
-        "out_of_state_tuition": "$62,250/ year",
-        "average_housing_cost": "$10,100/ year",
-        "average_meal_plan_cost": "$7,700/ year",
-        "book_and_supplies": "$1,000/ year",
-        "tuition_gurantee_plan": "No",
-        "tuition_payment_plan": "Yes",
-        "prepaid_tution_plan": "No"
-    },
-    "Academics": {
-        "graduation_rate": "97%National49%",
-        "full_time_retention_rate": "98%",
-        "part_time_retention_rate": "No data available ",
-        "academic_calendar": "Semester",
-        "research_funding_student": "$46,945National$1,524",
-        "evening_degree_programs": "No",
-        "teacher_certification": "No",
-        "study_abroad": "Yes",
-        "faculty": {
-            "student_faculty_ratio": "2:1",
-            "female_professors": "41%",
-            "male_professors": "59%",
-            "average_professor_salary": "$272,933",
-            "faculty_poll": "50%"
+    {
+        "Title": "University of Southern California",
+        "Images": [
+            "https://d13b2ieg84qqce.cloudfront.net/e3bd854a9dfbb906fafca9d0babe6e12074f6528.jpg",
+            "https://d13b2ieg84qqce.cloudfront.net/1e5242b4dd183d32c3abb589b108432c0a8a1db3.jpg"
+        ],
+        "Badge": "#2 in Best Colleges for Design in America",
+        "Facts": [
+            "4 Year",
+            "LOS ANGELES, CA"
+        ],
+        "Ratings": "Rating 3.99 out of 5",
+        "No of Reviews": "4,035 reviews",
+        "Report Card": {
+            "Overall Grade": "grade A+",
+            "Academics": "grade A+",
+            "Value": "grade A",
+            "Diversity": "grade A+",
+            "Campus": "grade A+",
+            "Athletics": "grade A+",
+            "Party Scene": "grade A+",
+            "Professors": "grade A+",
+            "Location": "grade B+",
+            "Dorms": "grade A minus",
+            "Campus Food": "grade A minus",
+            "Student Life": "grade A+",
+            "Safety": "grade B minus"
+        },
+        "editorial": "USC is a highly rated private university located in Los Angeles, California. It is a large institution with an enrollment of 20,206 undergraduate students. Admissions is extremely competitive as the USC acceptance rate is 13%. Popular majors include Business, Communications, and Biology. Graduating 92% of students, USC alumni go on to earn a starting salary of $53,800.",
+        "About": {
+            "Website": "https://www.usc.edu/",
+            "Address": "UNIVERSITY PARK LOS ANGELES , CA 90089",
+            "About": [
+                "Common App Accepted",
+                "Private",
+                "SAT/ACT Optional"
+            ],
+            "Athletic Division": "NCAA Division I-FBS",
+            "Athletic Conference": "Pacific-12 Conference"
+        },
+        "Rankings": [
+            {
+                "Best Colleges for Communications in America": "1 of 931"
+            },
+            {
+                "Colleges with the Best Student Life in America": "2 of 1,509"
+            },
+            {
+                "Best Colleges for Performing Arts in America": "2 of 558"
+            },
+            {
+                "Best Colleges for Design in America": "2 of 438"
+            },
+            {
+                "Best Colleges for Business in America": "3 of 1,249"
+            },
+            {
+                "Best Colleges for Film and Photography in America": "3 of 285"
+            },
+            {
+                "Best Colleges for Student Athletes in America": "4 of 1,323"
+            },
+            {
+                "Best Colleges for Music in America": "4 of 265"
+            },
+            {
+                "Best Big Colleges in America": "4 of 126"
+            },
+            {
+                "Top Party Schools in America": "6 of 1,512"
+            },
+            {
+                "Best Colleges for Kinesiology and Physical Therapy in America": "6 of 591"
+            },
+            {
+                "Best Colleges for International Relations in America": "6 of 405"
+            },
+            {
+                "Best College Athletics in America": "8 of 1,344"
+            },
+            {
+                "Best Colleges for Architecture in America": "8 of 161"
+            },
+            {
+                "Best Colleges for Psychology in America": "10 of 1,127"
+            },
+            {
+                "Best Colleges for Public Health in America": "10 of 281"
+            },
+            {
+                "Best Greek Life Colleges in America": "11 of 689"
+            },
+            {
+                "Best Colleges for Philosophy in America": "11 of 455"
+            },
+            {
+                "Best Colleges for Art in America": "12 of 736"
+            },
+            {
+                "Best Colleges for Public Policy in America": "13 of 643"
+            },
+            {
+                "Best Colleges for Biology in America": "15 of 1,102"
+            },
+            {
+                "Best Colleges for Anthropology and Sociology in America": "16 of 762"
+            },
+            {
+                "Best Colleges for Religious Studies in America": "16 of 378"
+            },
+            {
+                "Best Colleges for Computer Science in America": "17 of 891"
+            },
+            {
+                "Best Colleges for Accounting and Finance in America": "17 of 828"
+            },
+            {
+                "Best Colleges for Engineering in America": "17 of 503"
+            },
+            {
+                "Most Diverse Colleges in America": "18 of 1,517"
+            },
+            {
+                "Best College Campuses in America": "21 of 1,387"
+            },
+            {
+                "Best Colleges that Accept the Common App in America": "23 of 781"
+            },
+            {
+                "Colleges with the Best Academics in America": "24 of 1,543"
+            },
+            {
+                "Best Test Optional Colleges in America": "24 of 1,454"
+            },
+            {
+                "Top Private Universities in America": "24 of 936"
+            },
+            {
+                "Best Colleges in America": "26 of 1,537"
+            },
+            {
+                "Best Colleges for History in America": "26 of 933"
+            },
+            {
+                "Best Colleges for Math in America": "29 of 776"
+            },
+            {
+                "Best Colleges for Physics in America": "29 of 447"
+            },
+            {
+                "Best Colleges for English in America": "32 of 901"
+            },
+            {
+                "Colleges with the Best Professors in America": "33 of 1,527"
+            },
+            {
+                "Best Colleges for Global Studies in America": "33 of 202"
+            },
+            {
+                "Best Colleges for Political Science in America": "34 of 822"
+            },
+            {
+                "Best Colleges for Economics in America": "34 of 554"
+            },
+            {
+                "Best Colleges for Environmental Science in America": "35 of 651"
+            },
+            {
+                "Hardest Colleges to Get Into in America": "38 of 174"
+            },
+            {
+                "Best Colleges for Chemistry in America": "60 of 646"
+            },
+            {
+                "Best Value Colleges in America": "88 of 1,482"
+            },
+            {
+                "Best College Dorms in America": "177 of 1,363"
+            },
+            {
+                "Best College Food in America": "269 of 1,361"
+            },
+            {
+                "Best College Locations in America": "389 of 1,527"
+            },
+            {
+                "Best Colleges for Business in California": "1 of 75"
+            },
+            {
+                "Best College Athletics in California": "1 of 70"
+            },
+            {
+                "Best Colleges for Communications in California": "1 of 60"
+            },
+            {
+                "Best Colleges for Accounting and Finance in California": "1 of 26"
+            },
+            {
+                "Top Party Schools in California": "2 of 97"
+            },
+            {
+                "Colleges with the Best Student Life in California": "2 of 96"
+            },
+            {
+                "Best Colleges for Biology in California": "2 of 69"
+            },
+            {
+                "Best Colleges for Student Athletes in California": "2 of 68"
+            },
+            {
+                "Best Greek Life Colleges in California": "2 of 45"
+            },
+            {
+                "Best Big Colleges in California": "2 of 21"
+            },
+            {
+                "Best Colleges for Psychology in California": "3 of 70"
+            },
+            {
+                "Colleges with the Best Academics in California": "4 of 102"
+            },
+            {
+                "Colleges with the Best Professors in California": "4 of 101"
+            },
+            {
+                "Most Diverse Colleges in California": "4 of 98"
+            },
+            {
+                "Best Colleges for Computer Science in California": "4 of 60"
+            },
+            {
+                "Best College Campuses in California": "5 of 79"
+            },
+            {
+                "Best Colleges for History in California": "5 of 66"
+            },
+            {
+                "Top Private Universities in California": "6 of 67"
+            },
+            {
+                "Best Colleges for English in California": "6 of 64"
+            },
+            {
+                "Best Colleges for Economics in California": "6 of 47"
+            },
+            {
+                "Best Colleges that Accept the Common App in California": "6 of 34"
+            },
+            {
+                "Best Colleges in California": "7 of 100"
+            },
+            {
+                "Best Test Optional Colleges in California": "7 of 99"
+            },
+            {
+                "Best Colleges for Political Science in California": "7 of 59"
+            },
+            {
+                "Hardest Colleges to Get Into in California": "9 of 26"
+            },
+            {
+                "Best College Dorms in California": "12 of 74"
+            },
+            {
+                "Best Value Colleges in California": "15 of 93"
+            },
+            {
+                "Best College Food in California": "24 of 75"
+            },
+            {
+                "Best College Locations in California": "46 of 103"
+            },
+            {
+                "Best Colleges in Los Angeles Area": "6 of 55"
+            },
+            {
+                "Best Value Colleges in Los Angeles Area": "9 of 50"
+            }
+        ],
+        "Admissions": {
+            "description": "USC admissions is extremely selective with an acceptance rate of 13%. Students that get into USC have an average SAT score between 1410-1540 or an average ACT score of 32-35. The regular admissions application deadline for USC is January 15. Interested students can apply for early action, and the USC early action deadline is November 1.",
+            "acceptance_rate": "13%",
+            "SAT_Range": "1410-1540",
+            "SAT_Reading": "690-750",
+            "SAT_MATH": "720-790",
+            "submitting_SAT": "31%",
+            "early_decision_acceptance_rate": "NA",
+            "total_applicants": "71,031",
+            "ACT_Range": "32-35",
+            "ACT_English": "34-35",
+            "ACT_MATH": "30-35",
+            "ACT_writing": "",
+            "Student_submiting_act": "19%",
+            "application_deadline": "January 15",
+            "early_decision_deadline": "",
+            "early_action_deadline": "November 1",
+            "offers_early_decision": "No",
+            "offers_early_action": "Yes",
+            "application_fee": "$85",
+            "application_website": "https://admission.usc.edu/apply/",
+            "accepts_common_app": "Yes",
+            "accepts_coalition_app": "No",
+            "high_school_gpa": "Required",
+            "high_school_rank": "Neither required nor recommended",
+            "high_school_transcript": "Required",
+            "college_prep_courses": "Required",
+            "SAT/ACT": "Considered but not required",
+            "Recommendations": "Required"
+        },
+        "Cost": {
+            "net_price": "$26,021/ year National $15,523",
+            "avg_total_aid_awarded": "$40,690/ year National $7,535",
+            "students_receiving_financial_aid": "76%",
+            "in_state_tuition": "$61,503/ year",
+            "out_of_state_tuition": "$61,503/ year",
+            "average_housing_cost": "$10,098/ year",
+            "average_meal_plan_cost": "$6,634/ year",
+            "book_and_supplies": "$1,200/ year",
+            "tuition_gurantee_plan": "No",
+            "tuition_payment_plan": "Yes",
+            "prepaid_tution_plan": "Yes"
+        },
+        "Academics": {
+            "graduation_rate": "92% National 49%",
+            "full_time_retention_rate": "96%",
+            "part_time_retention_rate": "83%",
+            "academic_calendar": "Semester",
+            "research_funding_student": "$11,070 National $1,524",
+            "evening_degree_programs": "No",
+            "teacher_certification": "No",
+            "study_abroad": "Yes",
+            "faculty": {
+                "student_faculty_ratio": "7:1",
+                "female_professors": "40%",
+                "male_professors": "60%",
+                "average_professor_salary": "$180,835",
+                "faculty_poll": "49%"
+            }
+        },
+        "Majors": {
+            "Business": "1,035 Graduates",
+            "Communications": "336 Graduates",
+            "Biology": "307 Graduates",
+            "Computer Science": "293 Graduates",
+            "Economics": "221 Graduates",
+            "Psychology": "177 Graduates",
+            "Accounting": "175 Graduates",
+            "International Relations": "171 Graduates",
+            "Computational and Applied Mathematics": "167 Graduates",
+            "Real Estate": "163 Graduates"
+        },
+        "Online": {
+            "Programs Offered Entirely OnlineTotal number of complete undergraduate programs offered online or through distance learning.": "Total number of complete undergraduate programs offered online or through distance learning.",
+            "Offers Online CoursesCollege offers distance education courses.": "College offers distance education courses.",
+            "Online Certificate ProgramsTotal number of certificate degree programs offered online or through distance education.": "Total number of certificate degree programs offered online or through distance education.",
+            "Online Associates ProgramsTotal number of associate degree programs offered online or through distance education.": "Total number of associate degree programs offered online or through distance education.",
+            "Online Bachelor's ProgramsTotal number of bachelor's degree programs offered online or through distance education.": "Total number of bachelor's degree programs offered online or through distance education."
+        },
+        "Students": {
+            "Full-Time Enrollment": "20,206Undergrads",
+            "Part-Time Undergrads": "584",
+            "Undergrads Over 25": "2%",
+            "Pell Grant": "21%",
+            "Varsity Athletes": "3%"
+        },
+        "Campus Life": {
+            "On-Campus Housing Available": "Yes",
+            "Freshmen Required to Live on Campus": "No",
+            "Freshmen Live On-Campus": "82%",
+            "Undergrads in College Housing": "30%",
+            "Average Housing Cost": "$10,098/ year",
+            "Meal Plan Available": "Yes",
+            "Average Meal Plan Cost": "$6,634/ year",
+            "Men's Varsity Sports": "Baseball, Basketball, Football, Golf, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Volleyball, Water Polo",
+            "Women's Varsity Sports": "Basketball, Beach Volleyball, Golf, Lacrosse, Rowing, Soccer, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country, Volleyball, Water Polo",
+            "Clubs Offered": "Campus Ministries, Dance, Drama/Theater, International Student Organizations, Literary Magazine, Model UN, Radio Station, Student Government, Newspaper, Film Society, Television Station, Yearbook",
+            "Music": "Choral Groups, Concert Band, Jazz Band, Marching Band, Music Ensembles, Musical Theater, Opera, Pep Band, Symphony Orchestra",
+            "Men in Fraternities": "26%",
+            "Women in Sororities": "27%"
         }
-    },
-    "Majors": {
-        "Economics": "188 Graduates",
-        "History": "100 Graduates",
-        "Political Science and Government": "97 Graduates",
-        "Liberal Arts and Humanities": "88 Graduates",
-        "Cellular Biology": "83 Graduates",
-        "Information Science": "83 Graduates",
-        "Statistics": "64 Graduates",
-        "Research and Experimental Psychology": "53 Graduates",
-        "International Relations": "46 Graduates",
-        "Mathematics": "46 Graduates"
-    },
-    "Students": {
-        "Full-Time Enrollment": "6,532Undergrads",
-        "Part-Time Undergrads": "4",
-        "Undergrads Over 25": "1%",
-        "Pell Grant": "21%",
-        "Varsity Athletes": "15%"
-    },
-    "Campus Life": {
-        "On-Campus Housing Available": "Yes",
-        "Freshmen Required to Live on Campus": "Yes",
-        "Freshmen Live On-Campus": "100%",
-        "Undergrads in College Housing": "83%",
-        "Average Housing Cost": "$10,100/ year",
-        "Meal Plan Available": "Yes",
-        "Average Meal Plan Cost": "$7,700/ year",
-        "Men's Varsity Sports": "All Track Combined, Baseball, Basketball, Fencing, Football, Golf, IceHockey, Lacrosse, Rowing, Sailing, Soccer, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country",
-        "Women's Varsity Sports": "All Track Combined, Basketball, Fencing, Field Hockey, Golf, Gymnastics, IceHockey, Lacrosse, Sailing, Skiing, Soccer, Softball, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country, Volleyball",
-        "Clubs Offered": "Campus Ministries, Dance, Drama/Theater, Film Society, International Student Organizations, Literary Magazine, Model UN, Newspaper, Radio Station, Student Government, Television Station, Yearbook",
-        "Music": "Choral Groups, Concert Band, Jazz Band, Marching Band, Musical Theater, Music Ensembles, Opera, Pep Band, Symphony Orchestra",
-        "Men in Fraternities": "No data available ",
-        "Women in Sororities": "No data available "
     }
-}
+]{"Title": "Yale University", "Images": ["https://d13b2ieg84qqce.cloudfront.net/56bf962d9b50945b144fb23398fe73404a49d815", "https://d13b2ieg84qqce.cloudfront.net/0458738b833915a50b21ce02ca7cd567f0ff7c07"], "Badge": "#1 in Best Colleges in America", "Facts": ["4 Year", "NEW HAVEN, CT"], "Ratings": "Rating 4.02 out of 5", "No of Reviews": "1,049 reviews", "Report Card": {"Overall Grade": "gradeA+", "Academics": "gradeA+", "Value": "gradeA+", "Diversity": "gradeA+", "Campus": "gradeA", "Athletics": "gradeA minus", "Party Scene": "gradeA+", "Professors": "gradeA+", "Location": "gradeA", "Dorms": "gradeA", "Campus Food": "gradeA", "Student Life": "gradeA+", "Safety": "gradeC+"}, "editorial": "Yale is an elite private university located in New Haven, Connecticut. It is a mid-size institution with an enrollment of 6,532 undergraduate students. Admissions is extremely competitive as the Yale acceptance rate is only 5%. Popular majors include Economics, History, and Political Science and Government. Graduating 97% of students, Yale alumni go on to earn a starting salary of $56,600.", "About": {"Website": "https://admissions.yale.edu", "Address": "133 WALL ST NEW HAVEN , CT 06511", "About": ["Common App Accepted", "Private", "SAT/ACT Optional"], "Athletic Division": "NCAA Division I-FCS", "Athletic Conference": "Ivy League"}, "Rankings": [{"Colleges with the Best Academics in America": "1 of 1,543"}, {"Best Colleges in America": "1 of 1,537"}, {"Colleges with the Best Professors in America": "1 of 1,527"}, {"Best Test Optional Colleges in America": "1 of 1,454"}, {"Top Private Universities in America": "1 of 936"}, {"Best Colleges for History in America": "1 of 933"}, {"Best Colleges that Accept the Common App in America": "1 of 781"}, {"Best Colleges for Art in America": "1 of 736"}, {"Best Colleges for Religious Studies in America": "1 of 378"}, {"Best Colleges for Film and Photography in America": "1 of 285"}, {"Best Colleges for Psychology in America": "2 of 1,127"}, {"Best Colleges for Economics in America": "2 of 554"}, {"Best Colleges for International Relations in America": "2 of 405"}, {"Best Colleges for Global Studies in America": "2 of 202"}, {"Best Colleges for Biology in America": "3 of 1,102"}, {"Best Colleges for English in America": "3 of 901"}, {"Best Colleges for Political Science in America": "3 of 822"}, {"Best Colleges for Environmental Science in America": "3 of 651"}, {"Best Colleges for Philosophy in America": "3 of 455"}, {"Best Colleges for Math in America": "4 of 776"}, {"Colleges with the Best Student Life in America": "5 of 1,509"}, {"Best Colleges for Engineering in America": "5 of 503"}, {"Best Colleges for Anthropology and Sociology in America": "6 of 762"}, {"Best Colleges for Chemistry in America": "6 of 646"}, {"Best Colleges for Physics in America": "6 of 447"}, {"Best Colleges for Performing Arts in America": "7 of 558"}, {"Best Colleges for Architecture in America": "7 of 161"}, {"Most Diverse Colleges in America": "8 of 1,517"}, {"Best Value Colleges in America": "8 of 1,482"}, {"Hardest Colleges to Get Into in America": "8 of 174"}, {"Best Colleges for Computer Science in America": "9 of 891"}, {"Best Colleges for Public Policy in America": "14 of 643"}, {"Best Colleges for Student Athletes in America": "16 of 1,323"}, {"Best College Campuses in America": "26 of 1,387"}, {"Best College Dorms in America": "54 of 1,363"}, {"Top Party Schools in America": "78 of 1,512"}, {"Best College Food in America": "84 of 1,361"}, {"Best College Locations in America": "121 of 1,527"}, {"Best Greek Life Colleges in America": "133 of 689"}, {"Best College Athletics in America": "179 of 1,344"}, {"Best College Locations in Connecticut": "1 of 23"}, {"Colleges with the Best Student Life in Connecticut": "1 of 23"}, {"Most Diverse Colleges in Connecticut": "1 of 23"}, {"Top Party Schools in Connecticut": "1 of 23"}, {"Best Colleges in Connecticut": "1 of 22"}, {"Best Test Optional Colleges in Connecticut": "1 of 22"}, {"Best College Campuses in Connecticut": "1 of 21"}, {"Best Value Colleges in Connecticut": "1 of 21"}, {"Best College Dorms in Connecticut": "1 of 20"}, {"Colleges with the Best Academics in Connecticut": "1 of 20"}, {"Colleges with the Best Professors in Connecticut": "1 of 20"}, {"Best Colleges for Student Athletes in Connecticut": "1 of 19"}, {"Best Colleges for Psychology in Connecticut": "1 of 18"}, {"Best Colleges that Accept the Common App in Connecticut": "1 of 18"}, {"Best Colleges for Biology in Connecticut": "1 of 16"}, {"Best Colleges for Computer Science in Connecticut": "1 of 15"}, {"Best Colleges for History in Connecticut": "1 of 15"}, {"Best Colleges for Political Science in Connecticut": "1 of 15"}, {"Best Colleges for English in Connecticut": "1 of 14"}, {"Top Private Universities in Connecticut": "1 of 14"}, {"Best Colleges for Economics in Connecticut": "1 of 13"}, {"Hardest Colleges to Get Into in Connecticut": "1 of 5"}, {"Best Greek Life Colleges in Connecticut": "2 of 11"}, {"Best College Athletics in Connecticut": "3 of 19"}, {"Best College Food in Connecticut": "3 of 19"}], "Admissions": {"description": "Yale admissions is extremely selective with an acceptance rate of 5%. Students that get into Yale have an average SAT score between 1480-1580 or an average ACT score of 33-35. The regular admissions application deadline for Yale is January 2. Interested students can apply for early action, and the Yale early action deadline is November 1.", "acceptance_rate": "5%", "SAT_Range": "1480-1580", "SAT_Reading": "730-780", "SAT_MATH": "750-800", "submitting_SAT": "54%", "early_decision_acceptance_rate": "NA", "total_applicants": "47,240", "ACT_Range": "33-35", "ACT_English": "35-36", "ACT_MATH": "31-35", "ACT_writing": "", "Student_submiting_act": "35%", "application_deadline": "January 2", "early_decision_deadline": "", "early_action_deadline": "November 1", "offers_early_decision": "No", "offers_early_action": "Yes", "application_fee": "$80", "application_website": "https://admissions.yale.edu/first-year-application-process", "accepts_common_app": "Yes", "accepts_coalition_app": "Yes", "high_school_gpa": "Recommended", "high_school_rank": "Recommended", "high_school_transcript": "Required", "college_prep_courses": "Neither required nor recommended", "SAT/ACT": "Considered but not required", "Recommendations": "Required"}, "Cost": {"net_price": "$20,605/ year National $15,523", "avg_total_aid_awarded": "$58,715/ year National $7,535", "students_receiving_financial_aid": "66%", "in_state_tuition": "$62,250/ year", "out_of_state_tuition": "$62,250/ year", "average_housing_cost": "$10,100/ year", "average_meal_plan_cost": "$7,700/ year", "book_and_supplies": "$1,000/ year", "tuition_gurantee_plan": "No", "tuition_payment_plan": "Yes", "prepaid_tution_plan": "No"}, "Academics": {"graduation_rate": "97% National 49%", "full_time_retention_rate": "98%", "part_time_retention_rate": "No data available ", "academic_calendar": "Semester", "research_funding_student": "$46,945 National $1,524", "evening_degree_programs": "No", "teacher_certification": "No", "study_abroad": "Yes", "faculty": {"student_faculty_ratio": "2:1", "female_professors": "41%", "male_professors": "59%", "average_professor_salary": "$272,933", "faculty_poll": "50%"}}, "Majors": {"Economics": "188 Graduates", "History": "100 Graduates", "Political Science and Government": "97 Graduates", "Liberal Arts and Humanities": "88 Graduates", "Cellular Biology": "83 Graduates", "Information Science": "83 Graduates", "Statistics": "64 Graduates", "Research and Experimental Psychology": "53 Graduates", "International Relations": "46 Graduates", "Mathematics": "46 Graduates"}, "Online": {}, "Students": {"Full-Time Enrollment": "6,532Undergrads", "Part-Time Undergrads": "4", "Undergrads Over 25": "1%", "Pell Grant": "21%", "Varsity Athletes": "15%"}, "Campus Life": {"On-Campus Housing Available": "Yes", "Freshmen Required to Live on Campus": "Yes", "Freshmen Live On-Campus": "100%", "Undergrads in College Housing": "83%", "Average Housing Cost": "$10,100/ year", "Meal Plan Available": "Yes", "Average Meal Plan Cost": "$7,700/ year", "Men's Varsity Sports": "All Track Combined, Baseball, Basketball, Fencing, Football, Golf, IceHockey, Lacrosse, Rowing, Sailing, Soccer, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country", "Women's Varsity Sports": "All Track Combined, Basketball, Fencing, Field Hockey, Golf, Gymnastics, IceHockey, Lacrosse, Sailing, Skiing, Soccer, Softball, Squash, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country, Volleyball", "Clubs Offered": "Campus Ministries, Dance, Drama/Theater, Film Society, International Student Organizations, Literary Magazine, Model UN, Newspaper, Radio Station, Student Government, Television Station, Yearbook", "Music": "Choral Groups, Concert Band, Jazz Band, Marching Band, Musical Theater, Music Ensembles, Opera, Pep Band, Symphony Orchestra", "Men in Fraternities": "No data available ", "Women in Sororities": "No data available "}, "after_college": {"Median Earnings 6 Years After Graduation": "$83,200/ year National $33,028", "Graduation Rate": "97% National 49%", "Employed 2 Years After Graduation": "92% National 83%"}, "Reviews": [{"rating": "Rating 5 out of 5 ", "text": "Academics are top-tier. Professors care deeply about students as they both challenge and nurture them throughout their educational journeys"}, {"rating": "Rating 5 out of 5 ", "text": "I loved my time at Yale - my classmates were fantastic, and the school put in a lot of effort (and funding) to foster community through events, student organizations, school traditions, etc."}, {"rating": "Rating 5 out of 5 ", "text": "Yale University is known for its academics, but what really is special about attending the college is the other students you will meet during your time here. Like you, they are passionate about learning, and everyone has their own special niche. I love hearing about my friend's interests."}, {"rating": "Rating 4 out of 5 ", "text": "As someone who came from a low-income community and attended an underfunded high school, Yale is a dream come true. There are a plethora of resources for students with backgrounds like me, along with resources for the general student population. I like that Yale provides peer tutors for most STEM classes and writing tutors within the residential colleges (Hogwarts Houses) and the library's writing center. Additionally, the professors I've had thus far are wonderful and extremely helpful. They seem like they genuinely want their students to thrive and are willing to take some of their own time to help them. The student community at Yale is amazing and diverse. There is an astounding amount of clubs and activities for students to join, and I'm grateful for the many options I have. The housing at Yale can be hit-or-miss, especially when comparing the new residential colleges with the older ones. However, Yale's residential college system fosters a welcoming and tight-knit community."}, {"rating": "Rating 4 out of 5 ", "text": "Yale has definitely opened up a lot of opportunities for me, and has allowed me to study with knowledgeable professors and meet a bunch of amazing people from all over the world. There is definitely a hustle culture here, and sometimes that can feel overwhelming. It is hard not to compare myself to others, especially once I became an upperclassman and the people around me started getting jobs. There are some absurd aspects of going here, like the student body being so rich and from backgrounds with access to a lot of resources. I think some of these weird parts of going to Yale feel so normal because we don't know any different. Financial aid has been generous but there are a lot of aspects of going to school out of state and in a city that are hard financially. There also isn't enough housing for all of the students which I think is a problem considering Yale keeps admitting more people. The students here are generally really nice and there are many avenues for a robust social life."}, {"rating": "Rating 4 out of 5 ", "text": "While cliche, I can certainly affirm that the best part about Yale is the people. Whether it's campus life, intramurals, or even just casual hangouts, the diverse array of Yalies and their interesting skills/experiences is what makes Yale great. On the flip side, I'd critique Yale's STEM department, where lots of the teaching has been to my disappointment (whether it's having a grad student teach core classes, being given insufficient test prep materials, horrible lecturing, etc.)."}, {"rating": "Rating 5 out of 5 ", "text": "I loved my time at Yale. New Haven is the best city to go to school in: fun and safe bars, delicious food, and buzzing culture. Students at Yale are shockingly down-to-earth, artsy, and driven."}, {"rating": "Rating 5 out of 5 ", "text": "Cool University i met a lot of people the network is amazing , i learned so much in this uni , so is an overall great uni"}, {"rating": "Rating 5 out of 5 ", "text": "Love the community and friends and alumni of Yale. This is where I met the most interesting people of my life."}, {"rating": "Rating 3 out of 5 ", "text": "The amenities are great! Food, access to inspiring spaces, etc. However, it\u2019s really clear that the school does not care about their students unless you can serve them in some sort of way. Incredibly unequal treatment and does not in any way attempt to be a support system. Faculty can sometimes follow this logic, believing that rules are very set in stone and if you cannot meet the requirements, then your failure is only yourself to blame. This is not to say that there are no safe and supportive spaces there are many to choose from but Yale itself is ruthless and does not care for your well-being, only your statistics."}, {"rating": "Rating 5 out of 5 ", "text": "I mean I loved college. It wad super cool and I made a lot of friends. It wad one of the most challenging yet fruitful experiences of my life. Faculty is great, facilities are great. The overall environment  screams passion and adventure"}, {"rating": "Rating 4 out of 5 ", "text": "While the reputation of Yale does hold up, there are sacrifices that must take place for the students to also hold up their reputation at Yale. Overall, a best school."}, {"rating": "Rating 5 out of 5 ", "text": "What I love most about Yale is the world-class academics and incredible community of professors and students. It's hard to describe just how great it is to be among intellectually curious people who genuinely love learning. The college fosters a collaborative culture where the people you meet and the quality of the community you live in matters more than prestige of the university brand. The resources for student projects and activities are incredible, so there are endless opportunities for extracurriculars and outstanding social life."}, {"rating": "Rating 5 out of 5 ", "text": "Amazing experience and I found a great job right after school. I recommend 100%. Loved the teachers, communities and sports."}, {"rating": "Rating 5 out of 5 ", "text": "Yale is well-known for its challenging academic programs and top-tier faculty. The prospect of delving into diverse academic disciplines and majors excites me. The intimate class sizes would cultivate meaningful interactions with professors, providing the ideal environment for in-depth discussions and research opportunities."}, {"rating": "Rating 5 out of 5 ", "text": "While not perfect, it's an incredible place. Unrivalled peers, fun setting that isn't as isolating as larger cities. Great research opportunities that will set you up for any possible grad programs. Extremely fun social scene that is great for people who didn't go crazy prior to college."}, {"rating": "Rating 5 out of 5 ", "text": "Yale is a beautiful university with some great professors and amazing classmates! I enjoyed my time as an undegradute and blessed to  be able to continue my studies as a graduate student."}, {"rating": "Rating 5 out of 5 ", "text": "Yale is renowned for its rigorous academic programs and world-class faculty. I would have the opportunity to explore a wide range of academic disciplines and majors. The small class sizes would foster close interactions with professors, allowing for in-depth discussions and research opportunities. Yale's commitment to academic excellence would challenge me to think critically and pursue my intellectual passions. Challenges: While the Yale experience is rich and rewarding, it can also be academically demanding and competitive. Balancing coursework, extracurricular commitments, and personal life may present challenges, and students may experience stress at times. In summary, being a student at Yale University would offer a dynamic and intellectually stimulating experience, with a strong focus on academic excellence, community engagement, and personal growth. However, it would also come with its share of academic challenges and demands which are typical of a top-tier institution like Yale"}, {"rating": "Rating 5 out of 5 ", "text": "Yale has been an amazing experience. The community here is like no other, in part because of the residential colleges, but also because of the university\u2019s emphasis on undergraduate teaching and student resources. World-class professors not only teach all levels of classes, but are very accessible to undergraduates. Every residential college has a head who is an accomplished scholar who lives in the college, and each college has its own dining hall, library, gym, theater/entertainment, and buttery. So it feels like home within the larger university. Most of all, I love student culture which is engaged, passionate, and knows how to have fun."}, {"rating": "Rating 5 out of 5 ", "text": "I'm a proud parent of a son who is a Yale Class of 2027 member. My son had a tough decision in choosing his college as he was accepted to several elite universities. Yale rolled out the red carpet during the admitted student days known as Bulldog Days. They had a full schedule of fun and engaging activities to demonstrate to students what life is like. As a parent, we were impressed with the multiple support layers and the welcoming environment. On move-in day, we had an enjoyable experience. Current students came out to cheer and welcome my son. The residential college system is exceptional for the family atmosphere and support. My son picked the right school for him. Yale is a magnificent and magical place."}]}
+{"Title": "University of Southern California", "Images": ["https://d13b2ieg84qqce.cloudfront.net/e3bd854a9dfbb906fafca9d0babe6e12074f6528.jpg", "https://d13b2ieg84qqce.cloudfront.net/1e5242b4dd183d32c3abb589b108432c0a8a1db3.jpg"], "Badge": "#2 in Best Colleges for Design in America", "Facts": ["4 Year", "LOS ANGELES, CA"], "Ratings": "Rating 3.99 out of 5", "No of Reviews": "4,035 reviews", "Report Card": {"Overall Grade": "gradeA+", "Academics": "gradeA+", "Value": "gradeA", "Diversity": "gradeA+", "Campus": "gradeA+", "Athletics": "gradeA+", "Party Scene": "gradeA+", "Professors": "gradeA+", "Location": "gradeB+", "Dorms": "gradeA minus", "Campus Food": "gradeA minus", "Student Life": "gradeA+", "Safety": "gradeB minus"}, "editorial": "USC is a highly rated private university located in Los Angeles, California. It is a large institution with an enrollment of 20,206 undergraduate students. Admissions is extremely competitive as the USC acceptance rate is 13%. Popular majors include Business, Communications, and Biology. Graduating 92% of students, USC alumni go on to earn a starting salary of $53,800.", "About": {"Website": "https://www.usc.edu/", "Address": "UNIVERSITY PARK LOS ANGELES , CA 90089", "About": ["Common App Accepted", "Private", "SAT/ACT Optional"], "Athletic Division": "NCAA Division I-FBS", "Athletic Conference": "Pacific-12 Conference"}, "Rankings": [{"Best Colleges for Communications in America": "1 of 931"}, {"Colleges with the Best Student Life in America": "2 of 1,509"}, {"Best Colleges for Performing Arts in America": "2 of 558"}, {"Best Colleges for Design in America": "2 of 438"}, {"Best Colleges for Business in America": "3 of 1,249"}, {"Best Colleges for Film and Photography in America": "3 of 285"}, {"Best Colleges for Student Athletes in America": "4 of 1,323"}, {"Best Colleges for Music in America": "4 of 265"}, {"Best Big Colleges in America": "4 of 126"}, {"Top Party Schools in America": "6 of 1,512"}, {"Best Colleges for Kinesiology and Physical Therapy in America": "6 of 591"}, {"Best Colleges for International Relations in America": "6 of 405"}, {"Best College Athletics in America": "8 of 1,344"}, {"Best Colleges for Architecture in America": "8 of 161"}, {"Best Colleges for Psychology in America": "10 of 1,127"}, {"Best Colleges for Public Health in America": "10 of 281"}, {"Best Greek Life Colleges in America": "11 of 689"}, {"Best Colleges for Philosophy in America": "11 of 455"}, {"Best Colleges for Art in America": "12 of 736"}, {"Best Colleges for Public Policy in America": "13 of 643"}, {"Best Colleges for Biology in America": "15 of 1,102"}, {"Best Colleges for Anthropology and Sociology in America": "16 of 762"}, {"Best Colleges for Religious Studies in America": "16 of 378"}, {"Best Colleges for Computer Science in America": "17 of 891"}, {"Best Colleges for Accounting and Finance in America": "17 of 828"}, {"Best Colleges for Engineering in America": "17 of 503"}, {"Most Diverse Colleges in America": "18 of 1,517"}, {"Best College Campuses in America": "21 of 1,387"}, {"Best Colleges that Accept the Common App in America": "23 of 781"}, {"Colleges with the Best Academics in America": "24 of 1,543"}, {"Best Test Optional Colleges in America": "24 of 1,454"}, {"Top Private Universities in America": "24 of 936"}, {"Best Colleges in America": "26 of 1,537"}, {"Best Colleges for History in America": "26 of 933"}, {"Best Colleges for Math in America": "29 of 776"}, {"Best Colleges for Physics in America": "29 of 447"}, {"Best Colleges for English in America": "32 of 901"}, {"Colleges with the Best Professors in America": "33 of 1,527"}, {"Best Colleges for Global Studies in America": "33 of 202"}, {"Best Colleges for Political Science in America": "34 of 822"}, {"Best Colleges for Economics in America": "34 of 554"}, {"Best Colleges for Environmental Science in America": "35 of 651"}, {"Hardest Colleges to Get Into in America": "38 of 174"}, {"Best Colleges for Chemistry in America": "60 of 646"}, {"Best Value Colleges in America": "88 of 1,482"}, {"Best College Dorms in America": "177 of 1,363"}, {"Best College Food in America": "269 of 1,361"}, {"Best College Locations in America": "389 of 1,527"}, {"Best Colleges for Business in California": "1 of 75"}, {"Best College Athletics in California": "1 of 70"}, {"Best Colleges for Communications in California": "1 of 60"}, {"Best Colleges for Accounting and Finance in California": "1 of 26"}, {"Top Party Schools in California": "2 of 97"}, {"Colleges with the Best Student Life in California": "2 of 96"}, {"Best Colleges for Biology in California": "2 of 69"}, {"Best Colleges for Student Athletes in California": "2 of 68"}, {"Best Greek Life Colleges in California": "2 of 45"}, {"Best Big Colleges in California": "2 of 21"}, {"Best Colleges for Psychology in California": "3 of 70"}, {"Colleges with the Best Academics in California": "4 of 102"}, {"Colleges with the Best Professors in California": "4 of 101"}, {"Most Diverse Colleges in California": "4 of 98"}, {"Best Colleges for Computer Science in California": "4 of 60"}, {"Best College Campuses in California": "5 of 79"}, {"Best Colleges for History in California": "5 of 66"}, {"Top Private Universities in California": "6 of 67"}, {"Best Colleges for English in California": "6 of 64"}, {"Best Colleges for Economics in California": "6 of 47"}, {"Best Colleges that Accept the Common App in California": "6 of 34"}, {"Best Colleges in California": "7 of 100"}, {"Best Test Optional Colleges in California": "7 of 99"}, {"Best Colleges for Political Science in California": "7 of 59"}, {"Hardest Colleges to Get Into in California": "9 of 26"}, {"Best College Dorms in California": "12 of 74"}, {"Best Value Colleges in California": "15 of 93"}, {"Best College Food in California": "24 of 75"}, {"Best College Locations in California": "46 of 103"}, {"Best Colleges in Los Angeles Area": "6 of 55"}, {"Best Value Colleges in Los Angeles Area": "9 of 50"}], "Admissions": {"description": "USC admissions is extremely selective with an acceptance rate of 13%. Students that get into USC have an average SAT score between 1410-1540 or an average ACT score of 32-35. The regular admissions application deadline for USC is January 15. Interested students can apply for early action, and the USC early action deadline is November 1.", "acceptance_rate": "13%", "SAT_Range": "1410-1540", "SAT_Reading": "690-750", "SAT_MATH": "720-790", "submitting_SAT": "31%", "early_decision_acceptance_rate": "NA", "total_applicants": "71,031", "ACT_Range": "32-35", "ACT_English": "34-35", "ACT_MATH": "30-35", "ACT_writing": "", "Student_submiting_act": "19%", "application_deadline": "January 15", "early_decision_deadline": "", "early_action_deadline": "November 1", "offers_early_decision": "No", "offers_early_action": "Yes", "application_fee": "$85", "application_website": "https://admission.usc.edu/apply/", "accepts_common_app": "Yes", "accepts_coalition_app": "No", "high_school_gpa": "Required", "high_school_rank": "Neither required nor recommended", "high_school_transcript": "Required", "college_prep_courses": "Required", "SAT/ACT": "Considered but not required", "Recommendations": "Required"}, "Cost": {"net_price": "$26,021/ year National $15,523", "avg_total_aid_awarded": "$40,690/ year National $7,535", "students_receiving_financial_aid": "76%", "in_state_tuition": "$61,503/ year", "out_of_state_tuition": "$61,503/ year", "average_housing_cost": "$10,098/ year", "average_meal_plan_cost": "$6,634/ year", "book_and_supplies": "$1,200/ year", "tuition_gurantee_plan": "No", "tuition_payment_plan": "Yes", "prepaid_tution_plan": "Yes"}, "Academics": {"graduation_rate": "92% National 49%", "full_time_retention_rate": "96%", "part_time_retention_rate": "83%", "academic_calendar": "Semester", "research_funding_student": "$11,070 National $1,524", "evening_degree_programs": "No", "teacher_certification": "No", "study_abroad": "Yes", "faculty": {"student_faculty_ratio": "7:1", "female_professors": "40%", "male_professors": "60%", "average_professor_salary": "$180,835", "faculty_poll": "49%"}}, "Majors": {"Business": "1,035 Graduates", "Communications": "336 Graduates", "Biology": "307 Graduates", "Computer Science": "293 Graduates", "Economics": "221 Graduates", "Psychology": "177 Graduates", "Accounting": "175 Graduates", "International Relations": "171 Graduates", "Computational and Applied Mathematics": "167 Graduates", "Real Estate": "163 Graduates"}, "Online": {"Programs Offered Entirely Online": "0", "Offers Online Courses": "Yes", "Online Certificate Programs": "0", "Online Associates Programs": "0", "Online Bachelor's Programs": "0"}, "Students": {"Full-Time Enrollment": "20,206Undergrads", "Part-Time Undergrads": "584", "Undergrads Over 25": "2%", "Pell Grant": "21%", "Varsity Athletes": "3%"}, "Campus Life": {"On-Campus Housing Available": "Yes", "Freshmen Required to Live on Campus": "No", "Freshmen Live On-Campus": "82%", "Undergrads in College Housing": "30%", "Average Housing Cost": "$10,098/ year", "Meal Plan Available": "Yes", "Average Meal Plan Cost": "$6,634/ year", "Men's Varsity Sports": "Baseball, Basketball, Football, Golf, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Volleyball, Water Polo", "Women's Varsity Sports": "Basketball, Beach Volleyball, Golf, Lacrosse, Rowing, Soccer, Swimming and Diving, Tennis, Track and Field: Indoor, Track and Field: Outdoor, Track and Field: X-Country, Volleyball, Water Polo", "Clubs Offered": "Campus Ministries, Dance, Drama/Theater, International Student Organizations, Literary Magazine, Model UN, Radio Station, Student Government, Newspaper, Film Society, Television Station, Yearbook", "Music": "Choral Groups, Concert Band, Jazz Band, Marching Band, Music Ensembles, Musical Theater, Opera, Pep Band, Symphony Orchestra", "Men in Fraternities": "26%", "Women in Sororities": "27%"}, "after_college": {"Median Earnings 6 Years After Graduation": "$74,000/ year National $33,028", "Graduation Rate": "92% National 49%", "Employed 2 Years After Graduation": "92% National 83%"}, "Reviews": [{"rating": "Rating 3 out of 5 ", "text": "USC has a big campus with plenty of student organizations, events, and opportunities. Academics are great but tuition is expensive and off-campus housing is unaffordable."}, {"rating": "Rating 5 out of 5 ", "text": "I was recently admitted as a Film and Television production BFA student into USC. While I have yet to commit, I was very exited when I found out and immediately registered for my mom and I to attend the on campus open house on Sunday. We got there at around 8:30 and went to the African American/Black & Latinx community and coffee. I had a wonderful time. At first, I was nervous about the diversity there, and meeting new people, but everyone was extremely kind and welcoming. I already have a group chat with like 15 people in it. (lol)Overall, I think the experience is what you make it. Everyone there is extremely focused and the environment was inspiring. The campus is well kept and everything is in walking distance. I definitely recommend."}, {"rating": "Rating 5 out of 5 ", "text": "I have never felt more welcome in a student campus than when I went to USC. Applying to USC was one of the best decisions I have ever made. I was scared of inclusivity because I am a person of color as well as lived outside of the states most of my life. Fortunately the students were so welcoming and I felt that I fit right in."}, {"rating": "Rating 5 out of 5 ", "text": "My time at USC has been good because it's good for my specific field (journalism). I've liked the extracurriculars I've been part of, but I think there are also lots of people who have trouble figuring out where they fit at USC (me included at times)."}, {"rating": "Rating 4 out of 5 ", "text": "At USC, theres no question that academics are great. The student life, professors, campus activities and day to day experiences have been vibrant, fun and helpful. The place where id like to see the most change is with the administration. With tuition hikes and the removal of the AAA scholarship, USC has been taking away from their accessibility initiatives and their focus and encouragement of pursuing double majors and minors. I hope to see change that shows students that the administration cares about the ability of all students to get the education that they want."}, {"rating": "Rating 5 out of 5 ", "text": "USC has been a very great experience both academically and socially. The surrounding area, however, is quite worrisome at times and students must be very careful when venturing off of campus."}, {"rating": "Rating 3 out of 5 ", "text": "N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A N/A"}, {"rating": "Rating 5 out of 5 ", "text": "My experience at the University of Southern California was transformative. The vibrant campus culture, diverse community, and rigorous academic environment fostered both personal and intellectual growth. Professors were engaging and supportive, providing valuable mentorship. USC's vast array of extracurricular activities enriched my college experience, from cultural clubs to research opportunities. However, I believe there's room for improvement in terms of affordability and accessibility of resources, ensuring every student can fully engage in the USC experience. Overall, USC provided me with unforgettable memories and equipped me with the skills needed for success beyond graduation"}, {"rating": "Rating 4 out of 5 ", "text": "USC really is like no other. I am in love with my classes, the campus, professors, and am very proud of the education I am receiving from here. As with anything, USC isn't perfect: USC Housing can often be difficult to communicate and deal with, Financial Aid isn't always the most responsive, but I truly feel like I am a part of the Trojan family."}, {"rating": "Rating 4 out of 5 ", "text": "My overall experience at the University of Southern California has been nothing short of amazing. I've had the opportunity to meet unique people from a variety of different ethnicities. There are a lot of those type of people here that creates a vibrant environment. I also like the architecture of the university. I think it is a great representation of the school.  Other than that, I like the many programs and clubs they have outside of class. I am currently in the MMA club to help me keep my physical health up and learn to protect myself and the people who are important to me. As for the academics, I think that I am having the best teaching for my classes. USC has the best (or second best) video games program in America, and I feel like I'm getting that. I enjoy each of my classes. Especially last semester when I was doing video game projects and making games. I overall believe i am having an unbelievable experience here I a hope I can keep pursing my dreams. here."}, {"rating": "Rating 4 out of 5 ", "text": "I never felt very safe on campus, even after campus was locked down following a shooting my freshman year. I was bullied by my fellow students and the residential advisors punished me instead of listening to me. I frequently felt professor were unprofessional and purposely provocative. I had a bit of a fall and breakdown my sophomore year, and was yelled at by a professor in front of my entire major. But I got one of the most valuable educations of my life."}, {"rating": "Rating 5 out of 5 ", "text": "The only regret I have is that I didn\u2019t join enough groups to stay completely engaged as an alumni. But I enjoyed every aspect of my student life, from the academics to the sports; I can\u2019t recommend this school enough!"}, {"rating": "Rating 5 out of 5 ", "text": "I enjoyed all the events USC lets you take part in as a student and housing resident, especially all the sporting events we get to see."}, {"rating": "Rating 4 out of 5 ", "text": "very social and athletic school, area around is not as great though. education here is immaculate and professors i heard, are very great and care about students"}, {"rating": "Rating 5 out of 5 ", "text": "As a STEM student, you can definitely tell that there is less funding for the professors and classes compared to the business schools. However, you still have amazing and thoughtful professors who will do their best to teach you the subjects in engaging ways"}, {"rating": "Rating 5 out of 5 ", "text": "I really enjoy the work like balance that I have because of all the extracurricular activities I participate in."}, {"rating": "Rating 3 out of 5 ", "text": "Resources for low-income, first generation students appear to have improved since I took my leave of absence. There are infinitely more mental health resources as well."}, {"rating": "Rating 5 out of 5 ", "text": "I like the diverse, really friendly community, thoughtful curriculum, experienced teachers, and good campus life. I feel that the community is supportive and that I have many avenues to learn, change and grow here. The people are really nice!What I would like to see changed is a better work environment for the students and staff, more mediated spaces for discussions on difficult topics,  and a better-organized structure for knowing what opportunities I have to contribute to the community or make the most of my educational experience."}, {"rating": "Rating 5 out of 5 ", "text": "It has been nice so far, walkable community, fun intermural clubs, nice professors, lots of resources so make sure to use all of them (your tuition is paying for it for a reason)"}, {"rating": "Rating 5 out of 5 ", "text": "I have finished my first semester at USC and it was amazing. In high school I was on the quieter side and mostly focused on academics, but have really found my place here. I have joined a sports club, a professional club, and am interested in joining Greek life. I have made many connections here and have nothing negative to say. My educational experience has also been phenomenal and the faculty make it very easy to meet with them."}]}

@@ -21,7 +21,7 @@ def remove_unicode_chars(data):
     elif isinstance(data, list):
         return [remove_unicode_chars(item) for item in data]
     elif isinstance(data, str):
-        return data.replace("\u00a0", "").replace("\u2014", "").replace("National", " National ")
+        return data.replace("\u00a0", "").replace("\u2014", "").replace("National", " National ").replace("\xa0", " ")
     return cleaned_dict
 
 
@@ -46,12 +46,12 @@ def main(driver):
     colleges_button = driver.find_element(By.XPATH, "(//li[@class='home-hero__cta'])[2]")
     colleges_button.click()
 
-    colleges_link = wait.until(
-            EC.presence_of_all_elements_located((By.XPATH, '//a[contains(@class, "search-result__link")]')))
-
+    total_pages = int(wait.until(
+            EC.presence_of_all_elements_located((By.XPATH, '//button[contains(@class, "nss-1bxikzx")]')))[-1].text)
     search_url = driver.current_url
-    total_pages = int(driver.find_elements(By.XPATH, '//button[contains(@class, "nss-1bxikzx")]')[-1].text)
     for i in range(total_pages):
+        colleges_link = wait.until(
+            EC.presence_of_all_elements_located((By.XPATH, '//a[contains(@class, "search-result__link")]')))
         urls = [link.get_attribute("href") for link in colleges_link]
 
         for url in urls:
@@ -102,7 +102,6 @@ def main(driver):
             overall_grade = (
                 soup.find("div", class_="overall-grade__niche-grade")
                 .text.strip()
-                .replace("\xa0", " ")
             )
             report_card["Overall Grade"] = overall_grade
 
@@ -111,7 +110,7 @@ def main(driver):
             for grade in grades:
                 label = grade.find("div", class_="profile-grade__label").text.strip()
                 value = (
-                    grade.find("div", class_="niche__grade").text.strip().replace("\xa0", " ")
+                    grade.find("div", class_="niche__grade").text.strip()
                 )
                 report_card[label] = value
 
@@ -665,7 +664,7 @@ def main(driver):
             if online_section:
                 online_labels = online_section.find_all("div", class_="scalar__label")
                 for o in online_labels:
-                    online[o.text] = o.find_next("div").text
+                    online[o.find("span").text] = o.find_next_sibling("div").text
 
             data["Online"] = online
 
@@ -690,15 +689,43 @@ def main(driver):
 
             data["Campus Life"] = campus_life
 
+            after_college = {}
+            after_college_section = soup.find("section", {"id": "after"})
+            if after_college_section:
+                after_college_labels = after_college_section.find_all("div", class_="scalar__label")
+                for s in after_college_labels:
+                    after_college[s.text] = s.find_next("div").text
+
+            data["after_college"] = after_college
+
+            reviews = []
+            driver.get(f"{url}reviews/")
+            time.sleep(5)
+
+            reviews_page_source = driver.page_source
+            reviews_page_soup = BeautifulSoup(reviews_page_source, "html.parser")
+            reviews_section = reviews_page_soup.find("section", class_="reviews-expansion-bucket")
+            review_stars = reviews_section.find_all("div", class_="review__stars")
+            for s in review_stars:
+                reviews.append({
+                    "rating": s.text,
+                    "text": s.find_next("div").text
+                }) 
+
+            data["Reviews"] = reviews
+
             cleaned_data = remove_unicode_chars(data)
 
             # Open the JSON file for writing
-            with open("data.json", "w") as file:
+            with open("data.json", "a") as file:
                 # Write JSON data to the file
                 json.dump(cleaned_data, file)
+                file.write('\n')
 
             break
-        # driver.get(f"{search_url}?page={i+2}")
+        driver.get(f"{search_url}?page={i+2}")
+        if i >= 1:
+            break
     # Close the WebDriver
     driver.quit()
 
